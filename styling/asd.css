@@ -1,0 +1,15 @@
+
+body {
+  font-size: 10px;
+}
+
+.navbar-nav {
+  font-size: 1.4em;
+}
+
+.logo {
+  height: 2em;
+  object-fit: contain;
+  mix-blend-mode: darken;
+}
+
